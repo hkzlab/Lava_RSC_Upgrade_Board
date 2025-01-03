@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "uSD_push-push_ebay")(type "Legacy")(uri "${KIPRJMOD}/ext/lib/uSD_push-push_ebay.lib")(options "")(descr ""))
+)
