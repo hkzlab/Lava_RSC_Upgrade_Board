@@ -4373,7 +4373,7 @@
 		(descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x03 2.54mm double row")
 		(property "Reference" "J2"
-			(at -2.794 -0.56 0)
+			(at 3.556 7.314 180)
 			(layer "F.SilkS")
 			(uuid "930aedda-360a-45fe-80c1-714ef6d51711")
 			(effects
@@ -4384,7 +4384,7 @@
 			)
 		)
 		(property "Value" "Boot Mode"
-			(at 1.27 7.314 0)
+			(at 1.524 -1.83 0)
 			(layer "F.SilkS")
 			(uuid "2a739c25-e328-4c69-9a90-f06e64616048")
 			(effects
@@ -6538,7 +6538,7 @@
 		(tags "resistor array")
 		(property "Reference" "RN1"
 			(at 0 2.8 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "e264065e-af0e-4e2d-a99e-728e60632073")
 			(effects
 				(font
@@ -13376,28 +13376,28 @@
 		(uuid "ce00e736-fc93-4ea0-b99b-feaadd32117b")
 	)
 	(segment
-		(start 202.8 51.2)
+		(start 201.5495 54.866)
+		(end 201.5495 51.9425)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 50)
+		(uuid "516d68c8-eab0-495c-98b5-712649155786")
+	)
+	(segment
+		(start 202.292 51.2)
 		(end 205.3175 51.2)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 50)
-		(uuid "4d2799e0-2c78-4842-9d78-83660742128b")
+		(uuid "affbd88b-5e6f-4634-b5c4-64f83ea8eb4c")
 	)
 	(segment
-		(start 201.5495 54.866)
-		(end 201.5495 52.4505)
+		(start 201.5495 51.9425)
+		(end 202.292 51.2)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 50)
-		(uuid "6f97a30f-ff2d-4022-b599-67b58540ccb8")
-	)
-	(segment
-		(start 201.5495 52.4505)
-		(end 202.8 51.2)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 50)
-		(uuid "c5f9a715-6ddc-45e3-926c-242df68f47b2")
+		(uuid "b64c3f7a-9ef9-4a88-9019-c7dcd2d3333d")
 	)
 	(segment
 		(start 193.8495 52.6255)
