@@ -9993,7 +9993,7 @@
 		)
 	)
 	(gr_text "RSC Lite FW Upgrader"
-		(at 184.023 48.26 90)
+		(at 184.023 48.641 90)
 		(layer "F.SilkS")
 		(uuid "7bcfcb0f-d46f-4799-8180-a4045ab723c7")
 		(effects
