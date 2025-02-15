@@ -3880,6 +3880,12 @@
 		(uuid "74052ae1-3917-4df5-893e-463477ce4153")
 	)
 	(junction
+		(at 48.26 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "848d2b60-f912-4519-b02f-3811f739c045")
+	)
+	(junction
 		(at 68.58 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3916,6 +3922,12 @@
 		(uuid "a3bcaa32-2c81-4348-971a-1ddb05acc920")
 	)
 	(junction
+		(at 267.97 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a401f978-fd21-4693-9e82-f2c25a30ee82")
+	)
+	(junction
 		(at 48.26 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3932,12 +3944,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8b1ff74-07bb-49a0-8143-036fdbdf72b3")
-	)
-	(junction
-		(at 243.84 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc963610-4441-4640-a4ee-fb0dfb0480fb")
 	)
 	(junction
 		(at 26.67 69.85)
@@ -4048,10 +4054,6 @@
 		(uuid "2afe38b4-bc29-4c1b-a471-c9610fe9a786")
 	)
 	(no_connect
-		(at 158.75 95.25)
-		(uuid "2ef958e4-fa58-4dc3-8798-e7cda2af042d")
-	)
-	(no_connect
 		(at 158.75 80.01)
 		(uuid "30301959-719b-42ab-865b-4fecffccb40a")
 	)
@@ -4137,6 +4139,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 111.76) (xy 48.26 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "063849fc-a1a7-4e77-b793-421496c57be2")
+	)
+	(wire
+		(pts
 			(xy 238.76 154.94) (xy 255.27 154.94)
 		)
 		(stroke
@@ -4144,6 +4156,16 @@
 			(type default)
 		)
 		(uuid "09af3b54-987b-4bd7-bb74-5203fdfbca9c")
+	)
+	(wire
+		(pts
+			(xy 48.26 106.68) (xy 50.8 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b834047-3380-4d84-9d76-98538254bd00")
 	)
 	(wire
 		(pts
@@ -4324,6 +4346,16 @@
 			(type default)
 		)
 		(uuid "1e1849ad-8730-4a04-95ee-9789125d4852")
+	)
+	(wire
+		(pts
+			(xy 48.26 111.76) (xy 69.85 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f1d96ad-cd75-4dd0-8ec7-01962e6fa2c4")
 	)
 	(wire
 		(pts
@@ -4937,6 +4969,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 67.31) (xy 275.59 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad2c057-3182-4d4a-90d1-9a17ee0d6863")
+	)
+	(wire
+		(pts
 			(xy 88.9 86.36) (xy 88.9 90.17)
 		)
 		(stroke
@@ -5057,6 +5099,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 67.31) (xy 275.59 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c2d5a6a-feea-409f-a1a3-d6ed52e63cbb")
+	)
+	(wire
+		(pts
 			(xy 140.97 149.86) (xy 142.24 149.86)
 		)
 		(stroke
@@ -5114,16 +5166,6 @@
 			(type default)
 		)
 		(uuid "95011e25-eeef-4b37-834d-9e8a75dc17d3")
-	)
-	(wire
-		(pts
-			(xy 226.06 67.31) (xy 243.84 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97e6dbd9-dccf-4ccc-b4e3-30ec235862e8")
 	)
 	(wire
 		(pts
@@ -5337,6 +5379,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 111.76) (xy 48.26 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4f001b9-81b0-4f1e-b02e-7e805a59c705")
+	)
+	(wire
+		(pts
 			(xy 238.76 149.86) (xy 255.27 149.86)
 		)
 		(stroke
@@ -5344,16 +5396,6 @@
 			(type default)
 		)
 		(uuid "b672f0d2-2fea-4ecc-ba05-5cfda2190e14")
-	)
-	(wire
-		(pts
-			(xy 41.91 114.3) (xy 52.07 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b78a47e3-e789-43c4-9a2a-860ecd75f805")
 	)
 	(wire
 		(pts
@@ -5577,6 +5619,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 114.3) (xy 69.85 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceefff5e-15d2-4cbb-a4f0-4a34c84f9a2d")
+	)
+	(wire
+		(pts
 			(xy 246.38 67.31) (xy 248.92 67.31)
 		)
 		(stroke
@@ -5614,6 +5666,16 @@
 			(type default)
 		)
 		(uuid "d2a2c517-1f25-4e09-9f7e-23ef12e6058b")
+	)
+	(wire
+		(pts
+			(xy 55.88 106.68) (xy 69.85 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3afb9b9-73cb-493a-b409-8be5ff56be16")
 	)
 	(wire
 		(pts
@@ -5697,16 +5759,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 111.76) (xy 52.07 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da6614c7-2517-417c-b6d2-56e285806414")
-	)
-	(wire
-		(pts
 			(xy 36.83 116.84) (xy 34.29 116.84)
 		)
 		(stroke
@@ -5734,6 +5786,16 @@
 			(type default)
 		)
 		(uuid "e92b0db8-032d-4673-b6c6-a2cc0d3b48cc")
+	)
+	(wire
+		(pts
+			(xy 158.75 95.25) (xy 175.26 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9c67982-5e4e-4a9c-9dfd-2cfcd172476a")
 	)
 	(wire
 		(pts
@@ -5967,7 +6029,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 279.4 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5978,7 +6039,6 @@
 	)
 	(label "SWCLK"
 		(at 175.26 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5989,7 +6049,6 @@
 	)
 	(label "JTAG_TMS"
 		(at 255.27 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5999,8 +6058,7 @@
 		(uuid "1ee28b99-0571-4572-85ee-8b86cae45eb3")
 	)
 	(label "USB_D-"
-		(at 52.07 114.3 180)
-		(fields_autoplaced yes)
+		(at 69.85 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6011,7 +6069,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 279.4 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6022,7 +6079,6 @@
 	)
 	(label "BOOT1"
 		(at 106.68 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6033,7 +6089,6 @@
 	)
 	(label "SPI2_SD_CS"
 		(at 279.4 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6044,7 +6099,6 @@
 	)
 	(label "USB_D+"
 		(at 175.26 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6055,7 +6109,6 @@
 	)
 	(label "JTAG_TDO"
 		(at 106.68 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6066,7 +6119,6 @@
 	)
 	(label "JTAG_TMS"
 		(at 106.68 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6077,7 +6129,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 106.68 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6088,7 +6139,6 @@
 	)
 	(label "JTAG_TDI"
 		(at 255.27 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6099,7 +6149,6 @@
 	)
 	(label "BOOT0"
 		(at 106.68 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6110,7 +6159,6 @@
 	)
 	(label "BOOT1"
 		(at 114.3 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6121,7 +6169,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 279.4 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6131,8 +6178,7 @@
 		(uuid "55edb703-2222-403c-bdc5-60c785838ccd")
 	)
 	(label "USB_D+"
-		(at 52.07 111.76 180)
-		(fields_autoplaced yes)
+		(at 69.85 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6143,7 +6189,6 @@
 	)
 	(label "SPI2_SD_CS"
 		(at 106.68 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6154,7 +6199,6 @@
 	)
 	(label "JTAG_TCK"
 		(at 106.68 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6165,7 +6209,6 @@
 	)
 	(label "~{RESET}"
 		(at 40.64 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6176,7 +6219,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 106.68 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6187,7 +6229,6 @@
 	)
 	(label "JTAG_TCK"
 		(at 255.27 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6198,7 +6239,6 @@
 	)
 	(label "JTAG_TDI"
 		(at 106.68 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6209,7 +6249,6 @@
 	)
 	(label "SWDIO"
 		(at 255.27 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6218,9 +6257,18 @@
 		)
 		(uuid "8769dafa-eefb-45b1-a1c7-f19330a9be4d")
 	)
+	(label "USB_PULL"
+		(at 69.85 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "921ddadf-6f9e-40c8-a726-1c4d9568f4eb")
+	)
 	(label "BOOT0"
 		(at 48.26 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6231,7 +6279,6 @@
 	)
 	(label "JTAG_TDO"
 		(at 255.27 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6242,7 +6289,6 @@
 	)
 	(label "SWDIO"
 		(at 175.26 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6253,7 +6299,6 @@
 	)
 	(label "USB_D-"
 		(at 175.26 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6264,7 +6309,6 @@
 	)
 	(label "SWCLK"
 		(at 255.27 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6273,9 +6317,18 @@
 		)
 		(uuid "dbc5c07f-3adb-4209-a2c7-9399d49e9c86")
 	)
+	(label "USB_PULL"
+		(at 175.26 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f4b7644e-46af-4b3f-809a-cc5273b46cc4")
+	)
 	(label "SPI2_SCK"
 		(at 106.68 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6286,7 +6339,6 @@
 	)
 	(label "~{RESET}"
 		(at 106.68 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6356,6 +6408,72 @@
 			(project ""
 				(path "/f7293b52-0055-4f8d-8a0b-18b529801e46"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 275.59 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03b1cf1a-14bd-4fcf-8592-97a6f79cb5e2")
+		(property "Reference" "#PWR018"
+			(at 275.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 275.59 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 275.59 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 275.59 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a7bf78f-4582-4e84-a234-1d7cfdbd8686")
+		)
+		(instances
+			(project "RSC_Lite_Upgrade_Mod"
+				(path "/f7293b52-0055-4f8d-8a0b-18b529801e46"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -7146,6 +7264,73 @@
 			(project ""
 				(path "/f7293b52-0055-4f8d-8a0b-18b529801e46"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 53.34 106.68 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65b1ccb5-ccb5-4984-a479-09cb3e052fed")
+		(property "Reference" "R9"
+			(at 49.53 105.156 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.5K"
+			(at 57.404 105.156 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 53.34 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 53.34 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6cd460a6-e826-4f3e-b56e-f3b37ef3b19b")
+		)
+		(pin "1"
+			(uuid "35b3a8ea-74f6-4064-bcc9-25f16a887539")
+		)
+		(instances
+			(project "RSC_Lite_Upgrade_Mod"
+				(path "/f7293b52-0055-4f8d-8a0b-18b529801e46"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8798,7 +8983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "100nF"
 			(at 34.29 80.0162 0)
 			(effects
 				(font
@@ -9359,7 +9544,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 176.53 80.01 90)
 			(effects
 				(font
