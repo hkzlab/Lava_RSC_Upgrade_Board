@@ -24,7 +24,7 @@ spots to solder one), if you want, bring out the signals via a flat cable, and c
 
 ### Ordering the boards
 
-You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/PLACEHOLDER.html) and support me or download 
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/Lava_RSC_Lite_Famiclone_Upgrade_board_22eeb25e.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
 
 ## Hardware
