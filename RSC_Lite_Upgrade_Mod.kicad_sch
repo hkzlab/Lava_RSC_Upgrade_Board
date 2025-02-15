@@ -3116,12 +3116,6 @@
 		(uuid "6233b4c8-cd94-44d8-b40c-678257d617a7")
 	)
 	(junction
-		(at 78.74 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b35f970-e270-4d47-86ac-720acbcf2791")
-	)
-	(junction
 		(at 226.06 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3204,12 +3198,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd147bd0-feb0-4c66-aab1-2036af713639")
-	)
-	(junction
-		(at 78.74 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1b8c0a8-19b7-47ee-8ea8-ce74e84d4234")
 	)
 	(junction
 		(at 74.93 60.96)
@@ -3737,16 +3725,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 172.72) (xy 88.9 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b966e31-31a1-4cec-aada-7960a63144be")
-	)
-	(wire
-		(pts
 			(xy 102.87 57.15) (xy 102.87 59.69)
 		)
 		(stroke
@@ -3877,16 +3855,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 160.02) (xy 88.9 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6448033b-cd87-415c-81d9-527183b4519c")
-	)
-	(wire
-		(pts
 			(xy 236.22 43.18) (xy 260.35 43.18)
 		)
 		(stroke
@@ -3964,16 +3932,6 @@
 			(type default)
 		)
 		(uuid "776a88d4-d1a1-4d47-b3a0-54f4c8a75f8f")
-	)
-	(wire
-		(pts
-			(xy 88.9 160.02) (xy 88.9 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "784a6227-d871-475b-92a6-e8ea007cdd5d")
 	)
 	(wire
 		(pts
@@ -4444,16 +4402,6 @@
 			(type default)
 		)
 		(uuid "c0f5b0e6-c1a9-4492-aaf5-ac44a81729e3")
-	)
-	(wire
-		(pts
-			(xy 78.74 172.72) (xy 88.9 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c180092f-c62e-471d-992c-798ae2ef6c7c")
 	)
 	(wire
 		(pts
@@ -5246,7 +5194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -5264,7 +5212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -5316,7 +5264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 265.43 114.3 0)
 			(effects
 				(font
@@ -5474,7 +5422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 201.93 43.18 0)
 			(effects
 				(font
@@ -5492,7 +5440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 201.93 43.18 0)
 			(effects
 				(font
@@ -5610,7 +5558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 58.42 166.37 0)
 			(effects
 				(font
@@ -5628,7 +5576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 58.42 166.37 0)
 			(effects
 				(font
@@ -5908,7 +5856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 26.67 64.77 0)
 			(effects
 				(font
@@ -6377,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 80.01 57.15 0)
 			(effects
 				(font
@@ -6395,7 +6343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±5%, 10V, C0G"
 			(at 80.01 57.15 0)
 			(effects
 				(font
@@ -6447,7 +6395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 68.58 166.37 0)
 			(effects
 				(font
@@ -6465,7 +6413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 68.58 166.37 0)
 			(effects
 				(font
@@ -6647,7 +6595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 153.67 57.15 90)
 			(effects
 				(font
@@ -6715,7 +6663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 80.01 64.77 0)
 			(effects
 				(font
@@ -6733,7 +6681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±5%, 10V, C0G"
 			(at 80.01 64.77 0)
 			(effects
 				(font
@@ -6759,7 +6707,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 88.9 166.37 0)
+		(at 78.74 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6767,8 +6715,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aee0d562-7782-4c66-859f-2c97570fd358")
-		(property "Reference" "C11"
-			(at 91.44 165.1062 0)
+		(property "Reference" "C10"
+			(at 81.28 165.1062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6777,7 +6725,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 91.44 167.6462 0)
+			(at 81.28 167.6462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6785,8 +6733,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 88.9 166.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 78.74 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,7 +6743,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 166.37 0)
+			(at 78.74 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6803,8 +6751,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 88.9 166.37 0)
+		(property "Description" "±10%, 10V"
+			(at 78.74 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6817,76 +6765,6 @@
 		)
 		(pin "2"
 			(uuid "0420bd53-447b-4207-ae1e-d71eb8c48c25")
-		)
-		(instances
-			(project "RSC_Lite_Upgrade_Mod"
-				(path "/f7293b52-0055-4f8d-8a0b-18b529801e46"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 78.74 166.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b178f480-0582-4651-9fee-985b5086c3de")
-		(property "Reference" "C10"
-			(at 81.28 165.1062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 81.28 167.6462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 78.74 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 78.74 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 78.74 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3302e850-22a1-44b8-b6b4-9c83d90c892d")
-		)
-		(pin "2"
-			(uuid "eb67b51d-c4f8-421b-b1f1-7cd0272ed438")
 		)
 		(instances
 			(project "RSC_Lite_Upgrade_Mod"
@@ -7099,7 +6977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 26.67 74.93 0)
 			(effects
 				(font
@@ -7117,7 +6995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 26.67 74.93 0)
 			(effects
 				(font
@@ -7169,7 +7047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 210.82 43.18 0)
 			(effects
 				(font
@@ -7187,7 +7065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 210.82 43.18 0)
 			(effects
 				(font
@@ -7659,7 +7537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 162.56 57.15 0)
 			(effects
 				(font
@@ -7729,7 +7607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 257.81 114.3 0)
 			(effects
 				(font
@@ -7866,7 +7744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 48.26 166.37 0)
 			(effects
 				(font
@@ -7884,7 +7762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "±10%, 10V"
 			(at 48.26 166.37 0)
 			(effects
 				(font
