@@ -33,21 +33,16 @@ The board was designed with [KiCad](https://kicad.org/) EDA.
 
 ### Bill of Materials
 
-This board uses mostly SMD components, but the large footprint allows for handsoldering.
+This board uses mostly SMD components, but the footprint allows for handsoldering.
 
 | Component              | Qty | Type / Value                     | Notes                                                                |
 | ---------------------- | --- | -------------------------------- | -------------------------------------------------------------------- |
-| R1                     |  1  | any 1206 resistor                | Pullup on BOOT 0 signal, any resistor will do, even a solder bridge  |
-| R2, R4, R5, R9         |  4  | DNP                              | Not needed                                                           |
-| R3, R7, R8             |  1  | 10K 1206 resistor                |                                                                      |
-| R6                     |  1  | 1K 1206 resistor                 |                                                                      |
+| R3, R7, R8             |  1  | 10K 0805 resistor                |                                                                      |
+| R6                     |  1  | 1K 0805 resistor                 |                                                                      |
 | RN1, RN2               |  2  | 4-resistor array 4x0612 (1206)   | Convex package, the resistors are isolated                           |
-| C2, C3                 |  2  | 22pF 10V C0G 1206 capacitors     |                                                                      |
-| C1, C5, C6-C10         |  7  | 100nF 10V 1206 capacitors        |                                                                      |
-| C4, C11                |  2  | 10uF 10V 1206 capacitors         |                                                                      |
-| SW1                    |  1  | DNP                              | Not needed                                                           |
-| J1                     |  1  | DNP                              | Not needed                                                           |
-| J2                     |  1  | 2x03 pinheader, 2.54mm           |                                                                      |
+| C2, C3                 |  2  | 22pF 10V C0G 0805 capacitors     |                                                                      |
+| C1, C5, C6-C9          |  6  | 100nF 10V 0805 capacitors        |                                                                      |
+| C4, C10                |  2  | 10uF 10V 0805 capacitors         |                                                                      |
 | J3                     |  1  | 4pin header, 2.54mm              |                                                                      |
 | J4                     |  1  | 6pin header, 2.54mm              | I prefer using angled ones for this                                  |
 | XS1                    |  1  | uSD connector                    | You can find compatible ones on [AliExpress](https://aliexpress.com/item/4000033854553.html) |
